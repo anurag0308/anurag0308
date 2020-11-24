@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there.:wave: 
+Anurag Sharma this side.:smile:
 
-<!--
-**anurag0308/anurag0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning : Transformers based models in NLP like GPT, Docker, Deployment
+- 👯 I’m looking to collaborate on Data science Projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Active in coding Platforms : 
+   - <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width=4% height=4%>  : https://www.hackerrank.com/anu091716?hr_r=1
+   
+- 📫 How to reach me: 
+   - <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" width=4% height=4%>   : https://www.linkedin.com/in/anurag-sharma-0308/ 
+   
+
+:trophy: My Github Stats<br><br>
+![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=anurag0308&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag0308&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

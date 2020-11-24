@@ -1,7 +1,7 @@
 ### Hi there.:wave: 
 Anurag Sharma this side.:smile:
 
-- 🌱 I’m currently learning : Transformers based models in NLP like GPT, Docker, Deployment
+- 🌱 I’m currently learning : Transformers based models in NLP like GPT, BERT, Docker, & Deployment.
 - 👯 I’m looking to collaborate on Data science Projects.
 
 
